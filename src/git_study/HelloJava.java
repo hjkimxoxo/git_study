@@ -13,8 +13,7 @@ public class HelloJava {
 		System.out.println("B programmer");
 		
 
-		System.out.println("A programmer");
-
+	
 
 	}
 
